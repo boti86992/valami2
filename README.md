@@ -1,8 +1,8 @@
 12/H
 
-Hirdetés
+__Hirdetés__
 
-- [Jófogás](https://jofogas.hu/) - Magyarország legnagyobb online apróhirdetési oldala.
+- __[Jófogás](https://jofogas.hu/)__ - Magyarország legnagyobb online apróhirdetési oldala.
 - __[HardverApró](https://harverapro.hu/)__ - Itt megtalálod, amit keresel!
 
 
@@ -27,44 +27,44 @@ __Félkövér másként__
 
 _Dőlt másként_
 
-Áthúzott
+~Áthúzott~
 
 
-Blokkok
+## Blokkok
 
 
-Első idézet...
-Bágyazott blokk
-További beágyazott blokk
+>Első idézet...
+>>Bágyazott blokk
+>>>További beágyazott blokk
 
 
-Listák
+## Listák
 
 Felsorolás
 
-Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
-A részlisták 2 szóköz behúzásával készülnek:
-A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
-Alma
-Piros alma
-Narancs
-További elem
+-Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
+-A részlisták 2 szóköz behúzásával készülnek:
+    -A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
+        -Alma
+            -Piros alma
+        -Narancs
+-További elem
 
 Számozás
 
-Hétfő
-Kedd
-Szerda
+ 1. Hétfő
+ 2. Kedd
+ 3. Szerda
 
 
 
 Számozás indítása más kezdettel:
 
-Vasárnap
-Hétfő
+100. Vasárnap
+101. Hétfő
 
 
-Kód
+## Kód
 
 Soron belül code
 

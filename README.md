@@ -124,7 +124,7 @@ Jobbra igazított táblázat
 
 ### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
->Jelek::kissing_closed_eyes: :wink: :stuck_out_tongue: :confused:
+>Jelek: :kissing_closed_eyes: :wink: :stuck_out_tongue: :confused:
 
 
 ### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)

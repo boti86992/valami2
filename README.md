@@ -42,13 +42,13 @@ _Dőlt másként_
 
 Felsorolás
 
--Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
--A részlisták 2 szóköz behúzásával készülnek:
-    -A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
-        -Alma
-            -Piros alma
-        -Narancs
--További elem
+- Hozzon létre egy listát úgy, hogy egy sort kezd ezzel +, -, vagy *
+- A részlisták 2 szóköz behúzásával készülnek:
+    - A felsorolásjel karakterének megváltoztatása új lista indítását jelenti:
+        - Alma
+            - Piros alma
+        - Narancs
+- További elem
 
 Számozás
 
@@ -75,47 +75,48 @@ Gyakorlás
 Gyakorlás
 Gyakorlás
 
-
+```
 Blokk kód
-
+```
 
 Egyszerű szöveg...
 
 
 Szintaxis kiemelés
-
+```python
 
 for i in range(10):
     print("Hello")
 print("Vége")
+```
 
+## Táblázat
 
-Táblázat
-
-Gyümölcs Mennyiség
-
-alma 10 kg
-körte 20 kg
-banán 30 kg
+|Gyümölcs | Mennyiség|
+|---------|----------|
+|alma |10 kg|    
+|körte |20 kg|    
+|banán |30 kg|    
 
 Jobbra igazított táblázat
 
-Gyümölcs Mennyiség
-alma 10 kg
-körte 20 kg
-banán 30 kg
+|Gyümölcs | Mennyiség|
+|---------:|----------:|
+|alma |10 kg|    
+|körte |20 kg|    
+|banán |30 kg|   
 
 
-Linkek
+## Linkek
 
-Aqua http://aqua.hu
+- __[Aqua](http://aqua.hu)__
 
-Media Markt http://mediamarkt.hu/ MediaMarkt Magyarország
+- [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
 
-Automatikus link https://arpadszki.hu
+- Automatikus link https://arpadszki.hu
 
 
-Képek
+## Képek
 
 Minion https://octodex.github.com/images/minion.png
 Stormtroopocat  https://octodex.github.com/images/stormtroopocat.jpg The Stormtroopocat

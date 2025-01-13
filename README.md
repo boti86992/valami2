@@ -66,15 +66,15 @@ Számozás indítása más kezdettel:
 
 ## Kód
 
-Soron belül code
+Soron belül `code`
 
 Behúzott kód
-
-Néhány megjegyzés
+```
+//Néhány megjegyzés
 Gyakorlás
 Gyakorlás
 Gyakorlás
-
+```
 ```
 Blokk kód
 ```
@@ -109,7 +109,7 @@ Jobbra igazított táblázat
 
 ## Linkek
 
-- __[Aqua](http://aqua.hu)__
+- [Aqua](http://aqua.hu)
 
 - [Media Markt](http://mediamarkt.hu/ "MediaMarkt Magyarország")
 
@@ -118,20 +118,20 @@ Jobbra igazított táblázat
 
 ## Képek
 
-Minion https://octodex.github.com/images/minion.png
-Stormtroopocat  https://octodex.github.com/images/stormtroopocat.jpg The Stormtroopocat
+![Minion](https://octodex.github.com/images/minion.png)
+![Stormtroopocat](https://octodex.github.com/images/stormtroopocat.jpg "The Stormtroopocat")
 
 
-Emoji https://github.com/markdown-it/markdown-it-emoji
+### [Emoji](https://github.com/markdown-it/markdown-it-emoji)
 
-Jelek:
+>Jelek::kissing_closed_eyes: :wink: :stuck_out_tongue: :confused:
 
 
-Lábjegyzet https://github.com/markdown-it/markdown-it-footnote
+### [Lábjegyzet](https://github.com/markdown-it/markdown-it-footnote)
 Forgalomirányító protokollok:  
-RIP
-OSPF
+- RIP[^1]
+- OSPF[^2]
+-----------------
+[^1]: Routing Information Protocol
 
-Routing Information Protocol
-
-Open Shortest Path First
+[^2]: Open Shortest Path First
